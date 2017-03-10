@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run server",
-    "server": "browser-sync start --server --files=\"*.html\""
+    "server": "browser-sync start --startPath=\"/#development=1\" --server --files=\"*.html\""
   },
   "author": "",
   "license": "ISC",
