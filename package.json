@@ -5,11 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "npm run server",
-    "server": "browser-sync start --server --files=\"*.html\""
+    "server": "browser-sync start --startPath=\"/#development=1\" --server --files=\"*.html\""
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.18.8"
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-purifycss": "^0.2.0"
   }
 }
