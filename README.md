@@ -26,6 +26,11 @@
 <meta charset="utf-8">
 <script async src="https://cdn.ampproject.org/v0.js">
  ```
+ * Para formulários
+ ```html
+ <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+ ```
+ 
 ```html
 <meta name="viewport" content="width=device-width,  [minimum-scale=1], initial-scale=1.0" />
 ```
