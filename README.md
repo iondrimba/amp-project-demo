@@ -16,7 +16,7 @@
 
 
  ##### Mudanças
-* Remover todos script e link rel="stylesheet" Tags
+* Remover todos scripts e stylesheet Tags
 
 ```html
 <html [amp] lang="en">
