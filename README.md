@@ -8,6 +8,7 @@
 
   - Verificar a possibilidade de implementar AMP nas páginas do Triborg
   - Verificar o esforço para tornar páginas de categorias em AMP
+  - Fazer o translate automátizado das páginas do triborg para AMP via um serviço na hora de servir o html
 
 ![untitled-2](https://cloud.githubusercontent.com/assets/178548/24027368/cf438010-0aa5-11e7-8023-f68d9fda833e.jpg)
 
