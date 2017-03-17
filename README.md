@@ -85,6 +85,9 @@
     alt="Controle de jardim"></amp-img>
  </div>
 ```
+```html
+<form id="request-form" class="form container" method="post" [ action-xhr="https://example.com/subscribe" ] target="_top">
+```
 
 ```html
 <amp-youtube width="480"
