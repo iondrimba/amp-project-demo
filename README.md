@@ -9,6 +9,12 @@
   - Verificar a possibilidade de implementar AMP nas páginas do Triborg
   - Verificar o esforço para tornar páginas de categorias em AMP
 
+![untitled-2](https://cloud.githubusercontent.com/assets/178548/24027368/cf438010-0aa5-11e7-8023-f68d9fda833e.jpg)
+
+![untitled1-2](https://cloud.githubusercontent.com/assets/178548/24027392/f93345b8-0aa5-11e7-92c8-c373c29e7485.jpg)
+
+
+
  ##### Mudanças
 * Remover todos script e link rel="stylesheet" Tags
 
