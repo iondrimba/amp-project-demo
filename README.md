@@ -30,6 +30,13 @@
  ```html
  <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
  ```
+ * Não permitidos
+ ```html
+ <input type=button>
+ <input type=file>
+ <input type=image>
+ <input type=password>
+ ```
  
 ```html
 <meta name="viewport" content="width=device-width,  [minimum-scale=1], initial-scale=1.0" />
